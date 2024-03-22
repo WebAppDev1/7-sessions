@@ -1,0 +1,32 @@
+{
+  "playlistCollection": [
+    {
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "bcd18659-993a-48a5-9a6d-6df31745b136",
+      "title": "Mine",
+      "songs": [],
+      "date": "2024-03-22T11:38:28.713Z"
+    },
+    {
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "75f3ed8d-6685-4dbe-8ea8-69cec4948247",
+      "title": "next one",
+      "songs": [],
+      "date": "2024-03-22T11:48:35.773Z"
+    },
+    {
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "21004bb6-d48e-447f-9194-147a2a266d32",
+      "title": "marge's fav",
+      "songs": [],
+      "date": "2024-03-22T11:50:03.462Z"
+    },
+    {
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "f2633afa-6bf5-44dc-b8f9-a5534a4dbfd6",
+      "title": "marge's second fav",
+      "songs": [],
+      "date": "2024-03-22T12:13:53.535Z"
+    }
+  ]
+}

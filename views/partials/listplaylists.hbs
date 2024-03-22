@@ -1,0 +1,30 @@
+<section class="ui left aligned middle aligned segment">
+  
+  <h2>Playlist App Dashboard</h2>
+  
+  {{#unless playlists}}
+    <h3 class="ui message">
+      Start adding your playlists!
+    </h3>
+  {{/unless}}
+
+  {{#each playlists}}
+       {{> listOnePlaylist playlistId=id}}
+       {{> editplaylist playlistId=id}}
+ 
+  
+  <script>
+         document.querySelector("#showEdit{{@index}}").addEventListener ('click', () => {
+                          
+            document.querySelector("#playlist{{@index}}").style.display = "none";
+            document.querySelector("#edit{{@index}}").style.display = "block";
+         })
+         document.querySelector("#hideEdit{{@index}}").addEventListener ('click', () => {
+                                
+            document.querySelector("#playlist{{@index}}").style.display = "block";
+            document.querySelector("#edit{{@index}}").style.display = "none";
+         })
+        </script>
+  {{/each}}
+
+</section>
