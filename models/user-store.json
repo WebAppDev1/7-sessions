@@ -13,6 +13,48 @@
       "email": "marge@simpson.com",
       "password": "secret",
       "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstName": "Rosanne",
+      "lastName": "Birney",
+      "email": "rosanne@gmail.com",
+      "password": "secret",
+      "id": "833454ae-d2c4-4bfd-bafa-5aacccaae8d7"
+    },
+    {
+      "firstName": "New",
+      "lastName": "User",
+      "email": "new@gmail.com",
+      "password": "secret",
+      "id": "d86b97cb-9714-475e-8d20-1ecc6c1541e4"
+    },
+    {
+      "firstName": "Rosanne",
+      "lastName": "Birney",
+      "email": "tuesday@gmail.com",
+      "password": "secret",
+      "id": "a22f86c5-3bd6-4598-ba36-0cb9f54b5086"
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Bloggs",
+      "email": "jbloggs@gmail.com",
+      "password": "joe",
+      "id": "8f11a2d5-322f-4f22-b99a-5005b2ba4300"
+    },
+    {
+      "firstName": "Tuesday",
+      "lastName": "Demo",
+      "email": "demo@gmail.com",
+      "password": "secret",
+      "id": "c962a1ea-5098-4d70-aa58-7cac93164544"
+    },
+    {
+      "firstName": "Tuesday 2",
+      "lastName": "Tuesday 2",
+      "email": "demo@gmail.com",
+      "password": "secret",
+      "id": "ca5749c8-dc4a-4d36-80c5-ceba72cce661"
     }
   ]
 }

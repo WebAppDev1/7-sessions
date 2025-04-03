@@ -1,7 +1,17 @@
 <form class="ui stacked segment form" action="/dashboard/addplaylist" method="POST">
+ <div class="three fields">
   <div class="field">
     <label>Title</label>
-    <input placeholder="Title" type="text" name="title" autofocus required>
+    <input placeholder="Title" type="text" name="title" required>
   </div>
-  <button class="ui blue submit button">Add Playlist</button>
+  <div class="field">
+    <label>Category</label>
+    <input placeholder="Category" type="text" name="category" required>
+  </div>
+  <div class="field">
+    <label>Rating</label>
+    <input placeholder="Rating" type="number" name="rating">
+  </div>
+ </div>
+ <button class="ui blue submit button">Add Playlist</button>
 </form>
