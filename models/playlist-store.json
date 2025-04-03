@@ -2,31 +2,74 @@
   "playlistCollection": [
     {
       "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
-      "id": "bcd18659-993a-48a5-9a6d-6df31745b136",
-      "title": "Mine",
+      "id": "e93f4b34-140a-4a25-b8ae-36e2ff24aff5",
+      "title": "Homer's Playlist",
+      "category": "Classical",
+      "rating": "4",
       "songs": [],
-      "date": "2024-03-22T11:38:28.713Z"
-    },
-    {
-      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
-      "id": "75f3ed8d-6685-4dbe-8ea8-69cec4948247",
-      "title": "next one",
-      "songs": [],
-      "date": "2024-03-22T11:48:35.773Z"
+      "date": "2025-03-24T14:39:25.112Z"
     },
     {
       "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
-      "id": "21004bb6-d48e-447f-9194-147a2a266d32",
-      "title": "marge's fav",
+      "id": "f9de08c1-5567-4ad7-a685-fbce474fa9d4",
+      "title": "Marge's Playlist",
+      "category": "Pop",
+      "rating": "3",
       "songs": [],
-      "date": "2024-03-22T11:50:03.462Z"
+      "date": "2025-03-24T14:40:09.467Z"
+    },
+    {
+      "userid": "833454ae-d2c4-4bfd-bafa-5aacccaae8d7",
+      "id": "44ac9e5b-7e36-4e23-88f5-fc528a478300",
+      "title": "New playlist",
+      "category": "Rock",
+      "rating": "3",
+      "songs": [
+        {
+          "id": "3b6a6013-a6c0-4295-85bd-5ef62633ce3c",
+          "title": "New song",
+          "artist": "Artist name"
+        }
+      ],
+      "date": "2025-03-31T11:42:25.688Z"
     },
     {
       "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
-      "id": "f2633afa-6bf5-44dc-b8f9-a5534a4dbfd6",
-      "title": "marge's second fav",
+      "id": "198c1707-5e88-40c3-a633-3b6b31c16af4",
+      "title": "More songs",
+      "category": "Classical",
+      "rating": "4",
+      "songs": [
+        {
+          "id": "d67a3c76-87c6-411c-9bee-1da565d2df77",
+          "title": "Test",
+          "artist": "test"
+        },
+        {
+          "id": "11af0fb2-9ef1-4608-89a8-2126ab41dde4",
+          "title": "test",
+          "artist": "test"
+        }
+      ],
+      "date": "2025-03-31T11:51:37.811Z"
+    },
+    {
+      "userid": "c962a1ea-5098-4d70-aa58-7cac93164544",
+      "id": "d1550b94-ba6d-4967-a4d0-c8c717ab67c8",
+      "title": "asldkjflk",
+      "category": "lkjlkjlk",
+      "rating": "3",
       "songs": [],
-      "date": "2024-03-22T12:13:53.535Z"
+      "date": "2025-04-01T14:53:19.893Z"
+    },
+    {
+      "userid": "c962a1ea-5098-4d70-aa58-7cac93164544",
+      "id": "9e2e39cb-265b-4028-b2d4-ad630302e9c4",
+      "title": "lskdfjlj",
+      "category": "kjlkjlkj",
+      "rating": "4",
+      "songs": [],
+      "date": "2025-04-01T14:53:26.759Z"
     }
   ]
 }

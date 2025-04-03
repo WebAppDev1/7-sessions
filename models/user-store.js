@@ -19,7 +19,7 @@ const userStore = {
   getUserByEmail(email) {
     return this.store.findOneBy(this.collection, (user => user.email === email));
   },
-    
+  
   addUser(user) {
     this.store.addCollection(this.collection, user);
   },
